@@ -4,4 +4,4 @@
 /out
 /lib
 .DS_Store
-.gitignore
+*.gitignore
