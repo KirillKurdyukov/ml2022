@@ -1,0 +1,7 @@
+*.ipynb
+.idea
+*.iml
+/out
+/lib
+.DS_Store
+.gitignore
