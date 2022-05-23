@@ -189,7 +189,7 @@ class DecisionTreeClassifier(
     }
 }
 
-private class FastReader(input: InputStream) {
+class FastReader(input: InputStream) {
     var br: BufferedReader
     var st: StringTokenizer? = null
 
