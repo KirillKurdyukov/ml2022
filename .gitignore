@@ -1,4 +1,3 @@
-*.ipynb
 .idea
 *.iml
 /out
